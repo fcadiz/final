@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>insects-696185_960_720.jpg</filename>
+	<path>C:\Users\karto\Desktop\chaquetas\chax_internet\test\insects-696185_960_720.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>762</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chax</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>19</ymin>
+			<xmax>679</xmax>
+			<ymax>707</ymax>
+		</bndbox>
+	</object>
+</annotation>

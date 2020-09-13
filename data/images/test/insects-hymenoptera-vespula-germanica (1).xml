@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>insects-hymenoptera-vespula-germanica (1).jpg</filename>
+	<path>C:\Users\karto\Desktop\chaquetas\chax_internet\test\insects-hymenoptera-vespula-germanica (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>910</width>
+		<height>693</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chax</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>241</xmin>
+			<ymin>63</ymin>
+			<xmax>716</xmax>
+			<ymax>679</ymax>
+		</bndbox>
+	</object>
+</annotation>

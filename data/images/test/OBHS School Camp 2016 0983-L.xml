@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>OBHS School Camp 2016 0983-L.jpg</filename>
+	<path>C:\Users\karto\Desktop\chaquetas\chax_internet\test\OBHS School Camp 2016 0983-L.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>534</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chax</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>73</xmin>
+			<ymin>104</ymin>
+			<xmax>717</xmax>
+			<ymax>456</ymax>
+		</bndbox>
+	</object>
+</annotation>

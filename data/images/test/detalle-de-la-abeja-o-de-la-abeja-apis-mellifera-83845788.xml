@@ -1,0 +1,26 @@
+<annotation>
+	<folder>apis</folder>
+	<filename>detalle-de-la-abeja-o-de-la-abeja-apis-mellifera-83845788.jpg</filename>
+	<path>C:\Users\karto\Desktop\chaquetas\apis\detalle-de-la-abeja-o-de-la-abeja-apis-mellifera-83845788.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>489</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>83</ymin>
+			<xmax>749</xmax>
+			<ymax>417</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>istockphoto-646368710-1024x1024.jpg</filename>
+	<path>C:\Users\karto\Desktop\chaquetas\chax_internet\test\istockphoto-646368710-1024x1024.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>683</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chax</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>116</xmin>
+			<ymin>142</ymin>
+			<xmax>954</xmax>
+			<ymax>563</ymax>
+		</bndbox>
+	</object>
+</annotation>

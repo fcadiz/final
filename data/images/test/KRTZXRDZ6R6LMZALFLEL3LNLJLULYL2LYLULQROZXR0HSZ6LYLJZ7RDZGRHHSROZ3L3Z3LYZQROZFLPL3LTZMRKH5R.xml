@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>KRTZXRDZ6R6LMZALFLEL3LNLJLULYL2LYLULQROZXR0HSZ6LYLJZ7RDZGRHHSROZ3L3Z3LYZQROZFLPL3LTZMRKH5R.jpg</filename>
+	<path>C:\Users\karto\Desktop\chaquetas\chax_internet\test\KRTZXRDZ6R6LMZALFLEL3LNLJLULYL2LYLULQROZXR0HSZ6LYLJZ7RDZGRHHSROZ3L3Z3LYZQROZFLPL3LTZMRKH5R.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>560</width>
+		<height>420</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chax</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>17</ymin>
+			<xmax>537</xmax>
+			<ymax>407</ymax>
+		</bndbox>
+	</object>
+</annotation>

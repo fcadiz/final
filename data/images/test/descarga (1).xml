@@ -1,0 +1,26 @@
+<annotation>
+	<folder>apis</folder>
+	<filename>descarga (1).jpg</filename>
+	<path>C:\Users\karto\Desktop\chaquetas\apis\descarga (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>290</width>
+		<height>173</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>13</ymin>
+			<xmax>218</xmax>
+			<ymax>143</ymax>
+		</bndbox>
+	</object>
+</annotation>
