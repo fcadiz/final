@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train2</folder>
+	<filename>DSC_0496.JPG</filename>
+	<path>C:\Users\karto\Desktop\chaquetas\chax_internet\train2\DSC_0496.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>582</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chax</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>71</ymin>
+			<xmax>738</xmax>
+			<ymax>543</ymax>
+		</bndbox>
+	</object>
+</annotation>

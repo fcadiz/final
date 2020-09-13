@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train2</folder>
+	<filename>avispas-vespula-germanica-informacion-sobre.png</filename>
+	<path>C:\Users\karto\Desktop\chaquetas\chax_internet\train2\avispas-vespula-germanica-informacion-sobre.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>569</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chax</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>217</xmin>
+			<ymin>104</ymin>
+			<xmax>606</xmax>
+			<ymax>505</ymax>
+		</bndbox>
+	</object>
+</annotation>

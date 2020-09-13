@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train2</folder>
+	<filename>Hym._Vespidae._Vespula_P8110051as.jpg</filename>
+	<path>C:\Users\karto\Desktop\chaquetas\chax_internet\train2\Hym._Vespidae._Vespula_P8110051as.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>751</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chax</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>336</xmin>
+			<ymin>73</ymin>
+			<xmax>872</xmax>
+			<ymax>651</ymax>
+		</bndbox>
+	</object>
+</annotation>

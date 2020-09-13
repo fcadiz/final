@@ -1,0 +1,26 @@
+<annotation>
+	<folder>apis</folder>
+	<filename>Apismelliferajpg_5cd047d7870af.jpg</filename>
+	<path>C:\Users\karto\Desktop\chaquetas\apis\Apismelliferajpg_5cd047d7870af.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>626</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>75</ymin>
+			<xmax>920</xmax>
+			<ymax>576</ymax>
+		</bndbox>
+	</object>
+</annotation>
