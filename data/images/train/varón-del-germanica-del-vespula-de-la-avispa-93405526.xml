@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>varón-del-germanica-del-vespula-de-la-avispa-93405526.jpg</filename>
+	<path>C:\Users\karto\Desktop\chaquetas\chax_internet\test\varón-del-germanica-del-vespula-de-la-avispa-93405526.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>630</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chax</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>52</ymin>
+			<xmax>764</xmax>
+			<ymax>555</ymax>
+		</bndbox>
+	</object>
+</annotation>
