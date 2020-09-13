@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>Vespula-germanica-(Fabricius-1793)-1063749.jpg</filename>
+	<path>C:\Users\karto\Desktop\chaquetas\chax_internet\test\Vespula-germanica-(Fabricius-1793)-1063749.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>759</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chax</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>80</ymin>
+			<xmax>719</xmax>
+			<ymax>558</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>vespula-germanica-german-wasp-on-957003.jpg</filename>
+	<path>C:\Users\karto\Desktop\chaquetas\chax_internet\test\vespula-germanica-german-wasp-on-957003.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chax</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>150</xmin>
+			<ymin>46</ymin>
+			<xmax>414</xmax>
+			<ymax>338</ymax>
+		</bndbox>
+	</object>
+</annotation>

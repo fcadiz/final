@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>wasp-german-wasp-vespula-germanica-female-worker-yellowjacket-grey-paper-nest-top-view.jpg</filename>
+	<path>C:\Users\karto\Desktop\chaquetas\chax_internet\test\wasp-german-wasp-vespula-germanica-female-worker-yellowjacket-grey-paper-nest-top-view.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>880</width>
+		<height>589</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chax</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>209</xmin>
+			<ymin>29</ymin>
+			<xmax>726</xmax>
+			<ymax>557</ymax>
+		</bndbox>
+	</object>
+</annotation>

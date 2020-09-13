@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>Vespula_germanica_Banghoek_DSC6881.jpg</filename>
+	<path>C:\Users\karto\Desktop\chaquetas\chax_internet\test\Vespula_germanica_Banghoek_DSC6881.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>663</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chax</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>125</xmin>
+			<ymin>24</ymin>
+			<xmax>933</xmax>
+			<ymax>590</ymax>
+		</bndbox>
+	</object>
+</annotation>

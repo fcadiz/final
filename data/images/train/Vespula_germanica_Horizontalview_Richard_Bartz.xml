@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>Vespula_germanica_Horizontalview_Richard_Bartz.jpg</filename>
+	<path>C:\Users\karto\Desktop\chaquetas\chax_internet\test\Vespula_germanica_Horizontalview_Richard_Bartz.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2200</width>
+		<height>1467</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chax</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>257</xmin>
+			<ymin>39</ymin>
+			<xmax>1715</xmax>
+			<ymax>1373</ymax>
+		</bndbox>
+	</object>
+</annotation>
