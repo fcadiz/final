@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train2</folder>
+	<filename>204986434.jpg</filename>
+	<path>C:\Users\karto\Desktop\chaquetas\chax_internet\train2\204986434.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>318</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chax</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>186</xmin>
+			<ymin>113</ymin>
+			<xmax>279</xmax>
+			<ymax>212</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>apis</folder>
+	<filename>apis-mellifera_1860.jpg</filename>
+	<path>C:\Users\karto\Desktop\chaquetas\apis\apis-mellifera_1860.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>463</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>284</xmin>
+			<ymin>34</ymin>
+			<xmax>680</xmax>
+			<ymax>318</ymax>
+		</bndbox>
+	</object>
+</annotation>

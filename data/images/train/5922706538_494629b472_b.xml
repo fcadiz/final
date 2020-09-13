@@ -1,0 +1,26 @@
+<annotation>
+	<folder>apis</folder>
+	<filename>5922706538_494629b472_b.jpg</filename>
+	<path>C:\Users\karto\Desktop\chaquetas\apis\5922706538_494629b472_b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>683</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>125</xmin>
+			<ymin>64</ymin>
+			<xmax>599</xmax>
+			<ymax>611</ymax>
+		</bndbox>
+	</object>
+</annotation>

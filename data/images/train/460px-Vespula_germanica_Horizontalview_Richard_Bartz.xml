@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train2</folder>
+	<filename>460px-Vespula_germanica_Horizontalview_Richard_Bartz.jpg</filename>
+	<path>C:\Users\karto\Desktop\chaquetas\chax_internet\train2\460px-Vespula_germanica_Horizontalview_Richard_Bartz.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>460</width>
+		<height>307</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chax</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>6</ymin>
+			<xmax>366</xmax>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+</annotation>
